@@ -11,6 +11,16 @@ body {
   max-width: 400px;
 }
 
-h1 {
+h1, h2, h3, h4, h5, h6 {
+  font-family: fantasy;
+  font-weight: bold;
+  margin: 0 0 20px;
+}
 
+h1 {
+  font-size: xx-large;
+}
+
+h2 {
+  font-size: x-large;
 }
